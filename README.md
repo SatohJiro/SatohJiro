@@ -7,7 +7,7 @@
 </p>
 
 
-<p style="margin-left: 320px">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72EEC&width=435&lines=Hi+!++I'm+glad+to+meet+you;Believe+in+yourself+!;I'm+rooting+for+you"></a>
 </p>
 
