@@ -1,4 +1,7 @@
-<img alt="banner" style="width:100vw" src=" src="https://steamuserimages-a.akamaihd.net/ugc/1469813569889772332/561B0CA3064BBE81161027E425B0798EF7A01317/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img alt="banner" style="width:100vw" src=" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4700ea2d-9d4c-4069-a1c8-540c54a1b1a0/df0fbbs-1a2c17ca-75c5-46a4-8091-0fd6b1174311.jpg/v1/fill/w_1131,h_707,q_70,strp/wp8797759_pokemon_pixel_wallpapers_by_tuanthinhkenjumboy_df0fbbs-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvNDcwMGVhMmQtOWQ0Yy00MDY5LWExYzgtNTQwYzU0YTFiMWEwXC9kZjBmYmJzLTFhMmMxN2NhLTc1YzUtNDZhNC04MDkxLTBmZDZiMTE3NDMxMS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.m8tINvNVBXaWKXeqM1OGBIbm6s6TpRJ4bae2ClYUBNY">
+
+![Steam User Image](https://steamuserimages-a.akamaihd.net/ugc/1469813569889772332/561B0CA3064BBE81161027E425B0798EF7A01317/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+
 
 # Hi there, I'm Nguyen Tran Anh (Satoh Jiro)👋
 
