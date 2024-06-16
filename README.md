@@ -1,9 +1,4 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/1469813569889772332/561B0CA3064BBE81161027E425B0798EF7A01317/?ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Steam User Image" style="width:100%;">
-
-<img src="https://github.com/SatohJiro/SatohJiro/blob/NguyenTranAnh/img/Pokemon.gif" alt="Steam User Image" style="width:100%;">
-
-
-
+<img src="https://github.com/SatohJiro/SatohJiro/blob/NguyenTranAnh/img/Pokemon.gif" alt="SatohJiro" style="width:100%;">
 
 # Hi there, I'm Nguyen Tran Anh (Satoh Jiro)👋
 
