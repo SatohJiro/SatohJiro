@@ -1,4 +1,4 @@
-<img alt="banner" style="width:100vw" src="https://i.pinimg.com/736x/95/29/7f/95297f250f9563193468f7969decc4f4.jpg">
+<img alt="banner" style="width:100vw" src=" src="https://giphy.com/embed/VDGOdvmp1bpc3PcCry">
 
 
 # Hi there, I'm Nguyen Tran Anh (Satoh Jiro)👋
