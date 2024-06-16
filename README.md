@@ -1,6 +1,4 @@
-<img alt="banner" style="width:100vw" src=" src="https://giphy.com/embed/VDGOdvmp1bpc3PcCry">
-
-[![Giphy](https://giphy.com/embed/VDGOdvmp1bpc3PcCry)](https://giphy.com/embed/VDGOdvmp1bpc3PcCry)
+<img alt="banner" style="width:100vw" src=" src="https://steamuserimages-a.akamaihd.net/ugc/1469813569889772332/561B0CA3064BBE81161027E425B0798EF7A01317/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 # Hi there, I'm Nguyen Tran Anh (Satoh Jiro)👋
 
