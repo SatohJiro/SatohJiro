@@ -1,136 +1,203 @@
-<img src="https://github.com/SatohJiro/SatohJiro/blob/NguyenTranAnh/img/Pokemon.gif" alt="SatohJiro" style="width:100%;">
+<div align="center">
 
-# Hi there, I'm Nguyen Tran Anh (Satoh Jiro)👋
+  <!-- HERO BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,23,45,11,113,137,13,148,136&height=220&section=header&text=NGUYEN%20TRAN%20ANH&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Valedictorian&descFontSize=18&descAlignY=62&descColor=6ee7b7" width="100%" alt="Header Banner"/>
 
+  <p align="center">
+    <a href="https://linkedin.com/in/satohjiro"><img src="https://img.shields.io/badge/LinkedIn-Nguyen_Tran_Anh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://satohjiro-2022.web.app/"><img src="https://img.shields.io/badge/Portfolio-satohjiro--2022.web.app-00C7B7?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="mailto:trananhq2345@gmail.com"><img src="https://img.shields.io/badge/Email-trananhq2345%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/SatohJiro"><img src="https://img.shields.io/github/followers/SatohJiro?color=17324D&labelColor=0B7189&style=flat-square&logo=github&label=Followers" alt="Followers"/></a>
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SatohJiro&color=blueviolet&style=plastic">
-  <a href="https://wakatime.com/@95529fa2-95a4-4e17-934c-15b8fc2774d9"><img src="https://wakatime.com/badge/user/95529fa2-95a4-4e17-934c-15b8fc2774d9.svg" alt="Total time coded since October 4 2022" /></a>
-</p>
+  <p align="center">
+    <em>"Crafting scalable web architectures, resilient microservices, and AI-augmented software solutions."</em>
+  </p>
 
+</div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=F72EEC&width=435&lines=Hi+!++I'm+glad+to+meet+you;Believe+in+yourself+!;I'm+rooting+for+you"></a>
-</p>
+---
 
-<p align="center">
+### 💼 Executive Profile
+
+```yaml
+Name        : Nguyen Tran Anh (Satoh Jiro)
+Role        : Software Engineer / Full-Stack Developer
+Experience  : 3+ Years (Starting Jan 2023)
+Education   : Bachelor of Engineering (IT) — Nong Lam University
+Distinction : Class Valedictorian (GPA 3.6 / 4.0 — Ranked 1st across Cohort)
+Core Focus  : ReactJS, Next.js, Vue.js, Java Spring Boot, Node.js (NestJS), AI-Augmented Engineering
+Location    : Ho Chi Minh City, Vietnam
+```
+
+- 🏛️ **Academic Excellence**: Graduated as the **Top Valedictorian (Thủ khoa tốt nghiệp)** from Nong Lam University with a **GPA of 3.6/4.0** (Degree of Engineer in Information Technology).
+- ⚡ **Full-Stack Engineering**: Over **3 years of professional experience** building scalable enterprise web applications across Japanese telecommunications, financial CRM, and decentralized platforms.
+- 🤖 **AI-Driven Innovation**: Winner of **3rd Place — AI Got Talent 2023** for developing *GPT Code Generator* (NLP-to-code compiler using GPT-4, FastAPI, RabbitMQ). Daily practitioner of agentic development (Claude Code, LLM APIs).
+- 🌐 **Enterprise Experience**:
+  - **Hero Solutions**: Core frontend development on **ahamo** (NTT Docomo Japan) with micro-frontend architecture.
+  - **Nexus Zone**: Enterprise UI engineering on **Salesforce-CRM** (**Rookie of the Year 2024**).
+  - **TMA Solutions**: Full-stack modules on **GBST Wealth Management** and high-throughput transaction backends.
+
+---
+
+### 🛠️ Technical Competencies
+
+<table>
+  <tr>
+    <td width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-17324D?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-17324D?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-17324D?style=flat-square&logo=javascript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-17324D?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Solidity-17324D?style=flat-square&logo=solidity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5%2FCSS3-17324D?style=flat-square&logo=html5&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ReactJS-0B7189?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-0B7189?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vue.js-0B7189?style=flat-square&logo=vue.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redux_Toolkit-0B7189?style=flat-square&logo=redux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Zustand-0B7189?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Micro--Frontend-0B7189?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-047857?style=flat-square&logo=spring-boot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NestJS-047857?style=flat-square&logo=nestjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-047857?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-047857?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-047857?style=flat-square&logo=rabbitmq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RESTful_APIs-047857?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-1E3A8A?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-1E3A8A?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-1E3A8A?style=flat-square&logo=firebase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-1E3A8A?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Cloud-1E3A8A?style=flat-square&logo=google-cloud&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-B45309?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI_GPT--4-B45309?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-B45309?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Docker-B45309?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git%2FGitHub-B45309?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-B45309?style=flat-square&logo=figma&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Key Honors & Recognitions
+
+```text
+🥇 2023 | 1st Place — Class Valedictorian (Top Graduate across IT Department, Nong Lam University)
+🥉 2023 | 3rd Place — AI Got Talent (TMA Solutions: GPT Code Generator AI Platform)
+🌟 2024 | Rookie of the Year (Nexus Zone: Outstanding Frontend Delivery on Salesforce-CRM)
+```
+
+---
+
+### 📌 Selected Projects & Engineering Highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Graduation Thesis Management Portal</h4>
+      <p><i>ReactJS • Java Spring Boot • MySQL • Doc2Vec NLP • REST API</i></p>
+      <ul>
+        <li>Centralized thesis workflow for university faculty, lecturers, and students.</li>
+        <li>Implemented <b>Doc2Vec NLP model</b> to automatically detect duplicate research proposals.</li>
+        <li>Role-based access control (RBAC) with real-time evaluation pipelines.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 GPT Code Generator Platform</h4>
+      <p><i>Next.js • Python FastAPI • GPT-4 API • RabbitMQ • Firebase</i></p>
+      <ul>
+        <li>Natural language to fullstack web application compiler.</li>
+        <li>Asynchronous task queues using <b>RabbitMQ</b> for high-throughput LLM requests.</li>
+        <li>Won <b>3rd Place — AI Got Talent 2023</b> at TMA Solutions.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧩 Automated Sudoku Solver (Genetic Algorithm)</h4>
+      <p><i>Java • Genetic Algorithms • Heuristics • Data Structures</i></p>
+      <ul>
+        <li>Automated solver for NP-complete Sudoku puzzles using chromosome fitness evolution.</li>
+        <li>Optimized cross-breeding and mutation operators for rapid convergence.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Graph Theory Algorithms Suite</h4>
+      <p><i>Java • Algorithms • Graph Visualization</i></p>
+      <ul>
+        <li>Visualizer for Eulerian/Hamiltonian paths, MST (Kruskal/Prim), and Dijkstra shortest paths.</li>
+        <li>Interactive graph manipulation and real-time execution step debugger.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Productivity & Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SatohJiro&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SatohJiro&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=SatohJiro&bg_color=0D1117&color=58A6FF&line=39D353&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
+</div>
+
+---
+
+### 📬 Get in Touch
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/satohjiro/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://satohjiro-2022.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio_Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="mailto:trananhq2345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/SatohJiro">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/SatohJiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-</p>
-
-
-## I'm a student and Developer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for a place to training my skill with other developer
-- 🥅 2022 Goals: Learn more about programming technology and english
-- ⚡ Fun fact: I love to play game, listen to music and travel abroad
-
-### 🛠 &nbsp;Languages and Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Java](https://img.shields.io/badge/Java-DD5353?style=for-the-badge&logo=java&logoColor=white)
-
-<br>
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![Angular](https://img.shields.io/badge/-Angular-DD5353?style=for-the-badge&logo=angular&logoColor=ffffff)
-<br>
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
-[//]: # (![Nodejs]&#40;https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff&#41;)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<br>
-![Window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 <br/>
 
----
-
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
-
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-B73E3E.svg?logo=angular&logoColor=%ffffff"></a>
-</p>
-
-### 🗄️ Databases and hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-</p>
-
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-
-## 📕 Top projects I've contributed to
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/SatohJiro/Nhom24-AppTinTuc_FE_Thu2Ca4_2022"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SatohJiro&repo=Nhom24-AppTinTuc_FE_Thu2Ca4_2022&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Nhom24-AppTinTuc_FE_Thu2Ca4_2022"></a>
-  <a href="https://github.com/SatohJiro/FE_Game_Brick_Breaker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SatohJiro&repo=FE_Game_Brick_Breaker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/SatohJiro/Genetic_algorithm_SudokuGame"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SatohJiro&repo=Genetic_algorithm_SudokuGame&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Genetic_algorithm_SudokuGame"></a>
- <a href="https://github.com/SatohJiro/DFS-BFS-Dijkstra_Algorithm_Demo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SatohJiro&repo=DFS-BFS-Dijkstra_Algorithm_Demo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="DFS-BFS-Dijkstra_Algorithm_Demo"></a>
-</p>
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dom's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SatohJiro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<p align="center">
-  <a href="https://github.com/SatohJiro">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SatohJiro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SatohJiro&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SatohJiro&theme=gruvbox" />
-</p>
-
----
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p>
-<a href="https://www.linkedin.com/in/anh-nguy%E1%BB%85n-tr%E1%BA%A7n-4224aa226/"><img src="https://img.shields.io/badge/-NguyenTranAnh-937DC2?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mail_to:trananhq2345@gmail.com"><img src="https://img.shields.io/badge/-trananhq2345@gmail.com-31E1F7?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
-<!-- [website]: https://codeSTACKr.com -->
-<a href="https://www.facebook.com/profile.php?id=100005291479003"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://twitter.com/Anhnguyntrn15"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/anh-nguy%E1%BB%85n-tr%E1%BA%A7n-4224aa226"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,13,148,136,11,113,137,23,45&height=100&section=footer" width="100%" alt="Footer Banner"/>
+</div>
