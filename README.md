@@ -5,7 +5,7 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/satohjiro"><img src="https://img.shields.io/badge/LinkedIn-Nguyen_Tran_Anh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://satohjiro-2022.web.app/"><img src="https://img.shields.io/badge/Portfolio-satohjiro--2022.web.app-00C7B7?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://satohjiro.github.io/"><img src="https://img.shields.io/badge/Portfolio-satohjiro-00C7B7?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
     <a href="mailto:trananhq2345@gmail.com"><img src="https://img.shields.io/badge/Email-trananhq2345%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/SatohJiro"><img src="https://img.shields.io/github/followers/SatohJiro?color=17324D&labelColor=0B7189&style=flat-square&logo=github&label=Followers" alt="Followers"/></a>
   </p>
